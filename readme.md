@@ -1,3 +1,3 @@
 # Second Repo
 
-I have initiated this repo loclally on my machine.
+I have initiated this repo locally on my machine.
